@@ -238,4 +238,8 @@ If you want, I can:
 * Design a **capstone practice task**
 * Review your tokenizer code line by line
 
+
+#conceptof embeddign usage
+#concept of dimension undersanding in tensor.
+#concept f broadcasting in tenor
 Just tell me what you want next 👍
